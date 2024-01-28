@@ -11,7 +11,7 @@ const sliders = [
     description:
       "Ofrecer soluciones tecnológicas personalizadas y eficientes que potencien el crecimiento y la estabilidad financiera de pequeños y medianos negocios. Nos comprometemos a brindar un servicio integral, desde la implementación hasta el soporte continuo, para asegurar el éxito y la satisfacción de nuestros clientes.",
     image:
-      "https://previews.dropbox.com/p/thumb/ACGxVzjsmUinE651hsRs2lwRBh62nPTc-Wp7qGwgOuvby6U8LRMTKQXV_FRnKIMh6Qn-0-n-EhouwNggFc1733w22itil6pW_sp8tmTu57feUYtrQtMQHHbSMxdLLgCfinrbXW0gxzQ6fFC1EYyaDAVD9Ua_FR4lj_OZb-pF03-HGByXVqSk5jO-azc4q0Qb4ypidFDQH-05iG-bTOQtL84d2hhNaEluGzm9PS6c5h66VjBF8L6EhHMlcyWlfLgDcDJXYWszRSBc9UzXKIpuueLF-FlyCFlQgMmN889yT-FBXyH_iPg2vLWbq2TZrCF_AmxP2ePiPqdawQIuQfJorAxF/p.jpeg",
+      "https://dl.dropboxusercontent.com/scl/fi/v4xp3xjwwdtbehvhkx84a/mision.jpg?rlkey=p72k9jc716l13k59mfaxta3tl&dl=0",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const sliders = [
     description:
       "Ser reconocidos como líderes en el desarrollo de sistemas de escritorio especializados en soporte financiero, destacándonos por nuestra innovación, calidad y compromiso con el éxito de nuestros clientes. Buscamos ser la opción preferida para aquellos que buscan optimizar sus procesos financieros a través de la tecnología.",
     image:
-      "https://previews.dropbox.com/p/thumb/ACGAsjSvDITISPKHDOWxcQRqfeepfS-tjE8z3DrIAcaw3pFpW7OOP7lK9Pa6Zljfk0co10Sw6UM4j4w7rgl1k1xdN-AgJvlGxLzWfQvrSCdrTZIgTREmOS82A9wDqNUeEtr0O8-k61mGBxui7vjf_qCaeEA15Y0GiQEVglFZnCBO3AKJDjg5GWp1an-ox_25ljDuG1vXO-_g-Npw76BQtI7A2Qb03aQ60-Zihv9Ir0vUZUSkNrD0OhwfE8EmwB4gy0Mm_a80KdsvVTwOGYUlD1gOzFzaNpyLTHug8qxQUnInkcH3UEa-qY_VvK0Pk8jArYpqrz54LWPA_bPtgBWp9mMt/p.jpeg",
+      "https://dl.dropboxusercontent.com/scl/fi/zfalr9q4793kvupfih2ev/vision.jpg?rlkey=6ytukvxjxygbzjwpjs51uhpi0&dl=0",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const sliders = [
     description:
       "Buscamos la excelencia, actuamos con integridad, fomentamos la innovación, nos comprometemos con el éxito de nuestros clientes, y practicamos la empatía en cada interacción. Estos valores fundamentales guían nuestro trabajo diario y definen nuestra relación con clientes y socios.",
     image:
-      "https://previews.dropbox.com/p/thumb/ACH-inSzhGeJx69wEVZ6W3xlalqSBl7ZkhQOhx2lJFmBKyTUpOYKMDKYSEvg43uABIhT5ER1WoJVLWGVoAXeuf7oP76noIyWTyE24lHIsqUGgBimjpoqBIOwwAOi4qHJYifHqmsJFH3Ae5cnTggfLXVH1Zdmr4uhIXXh7VjVKpgNDtIcuf-HBOvOpNMArVGBbVm87t3qlxHuGcg3M5faKuFaNWJEI53akNkMcPou-KKVGwaUGunOHj3MGarboy2rjw_NypMJzD8BrZcXm1cFClsrjd2CFmrkLM1RnuA8CfZmDk1pJwDK6oTRsYZueAW5NTmW8Fc6dCO1jhdqIINqmGxU/p.jpeg",
+      "https://dl.dropboxusercontent.com/scl/fi/ft1m9kpcrgn3j78p7vnfp/valores.jpg?rlkey=awcib7vv485di3fatpyh8smcf&dl=0",
   },
 ];
 

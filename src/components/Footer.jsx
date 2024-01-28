@@ -14,7 +14,7 @@ function Footer() {
                 <div className='wave' id='wave4'></div>
             </div>
             <div className='footer-logo'>
-                <img src="https://previews.dropbox.com/p/thumb/ACEgJixovikyM9BoGyJXVNWOjrweR7Ga0FLL4MfIPqVdnXRMtL9kV1YOpV97ihYyhE5OcOqTFxWdbjvmJQbK_SAdJkB4n9Fdx-RhwqJCJ5wY7vrZo1AIrbUIAv4Js-kXLpbnsIt6yMIjfpP9M_JIQpyApOGUUhBDBJkE2eCwDkiw367Oz_39M1_1Bs_DfWg286YM_ao6EejTsheNmHcMR9lvnHrYblPtrfdBgYpCO04U2iYTitiCsxjAQbex19DlexSZx9gIE5Cyw_lOE3WPQQISbfI-sTGWxV3EJWEb_anlqDwDDYzoubZlX-MGGPwG-bhZ1AKh1yr53360ERomAddP/p.png" alt="" />
+                <img src="https://dl.dropboxusercontent.com/scl/fi/bly0relmgsys3dhuo1jdm/logic-logo.png?rlkey=lw3t5om2wb2l4h02hcyq6mmf2&dl=0" alt="" />
             </div>
             <p className='rnc'>RNC: 225-0004338-9 </p>
             <ul className='menu'>
@@ -89,7 +89,7 @@ const FootCont = styled.footer`
         left: 0;
         width: 100%;
         height: 100px;
-        background: url("https://previews.dropbox.com/p/thumb/ACH85ZfLPM_nfHhVTvew-eI_pa5VvfRyzanqzqi5R011_sINvV8Y45fth3bO07T5ftccdMyBqb0g8a4BW8JHfp4nnlEAvdNaxk8HddKLEyu00ek6P7I01Hgg0Rzrh4GQZifDXZX8uHJeNxK_CsqGu4hDzu2K12ST_hqhsDYLyQWTf52hfdfsFGHxAuZW0ht8vhZkEZ0OBKItI0o3jCa0zePr978s_CPVpSnuJ4MZz-x2pPeFolMao-UtIt8oK8yTSmkcwGexg7GXbO-YTPxXcel9-xQmluSQmWzL6Lcu88GBWjiHVOZgxHt9cqI9AfjZtlNb8xE0x7p4FTbkgz4M1MRe/p.png") repeat-x;
+        background: url("https://dl.dropboxusercontent.com/scl/fi/3rqayadayj00z4mfg6mhx/wave-ojala.png?rlkey=n0nkef5gae6fnrovbkj7xh8qj&dl=0") repeat-x;
         background-size: 1000px 100px;
     }
     footer .wave#wave1 {

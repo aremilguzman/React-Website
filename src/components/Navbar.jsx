@@ -18,7 +18,7 @@ function Navbar() {
     <>
       <NavContainer>
         <img
-          src="https://previews.dropbox.com/p/thumb/ACGw1_2UIUX1LKKhFsdmO5WuSiZrDd0nPZFno6VpW56dnLUp9LxuAxLckitDJNtwgEuNLOkGwKqe2X-qOrnWfmkQMs-juaM75-bONfOrSlrovFLjelpVlGZmEjlfG5JKhcGUM20pUKuwlRozF_vcC538nW3j4jlBmO0xS0ySZ5Hk-ps_auRYH54ha9on43rMjwk0qAMZEWpd6DVNBn5M-SWJq7NJAhVTEnCE86xBYt5yaj3xRmB8BLYD61ElhXbnBFGIJIxff3DK2F955yCkRvEQDzRXo_HOlPy6czURXEYWPyu-wTbC8xrUmzVhAbmn8RrVHLBxMkGzFHLLAl33CBSF/p.png"
+          src="https://dl.dropboxusercontent.com/scl/fi/k9rudcdasrxzgjm4gosfe/logoNavbar-editado.png?rlkey=88a09d7ej1ishou292avgkvxn&dl=0"
           alt=""
         />
         {/* asignacion de clase "clicked" para asignarle valor active cuando su estado sea true y mostrar los elementos de nav.*/}
